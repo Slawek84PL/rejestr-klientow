@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "email",
+      "password": "password",
+      "username": "test123"
+
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "firstname": "Test",
+      "surname": "Testowy",
+      "email": "email@email.com",
+      "phone": "123456789",
+      "address": "Misto ul. testowa 12",
+      "postcode": "11-1111"
+    }
+  ]
+}
